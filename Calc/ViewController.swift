@@ -26,7 +26,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        print("\(operation)")
+        print("jio  \(operation)")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
